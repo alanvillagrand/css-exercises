@@ -1,0 +1,15 @@
+.Odd {
+    background-color: rgb(249, 141, 159);
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+.Odd.three {
+    font-size: 24px;
+}
+#four {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
